@@ -1,6 +1,5 @@
 ## Hi there 👋
 I'm Pavel, a backend developer from Moscow, Russia.<br />
-In my free time, out of pure enthusiasm, I develop applications and plugins, trying to immerse myself in new technologies -> _A kind of hello world in a new programming language in order to push the boundaries of consciousness._
 
 ## About Me
 * In past Performance Testing Engineer
