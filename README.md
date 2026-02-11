@@ -5,7 +5,6 @@ I'm Pavel, a backend developer from Moscow, Russia.<br />
 * In past Performance Testing Engineer
 * Transition to backend developer in 2020
 * Team leading since 2022
-* Love reading and learning about vulnerability and cybersecurity in general
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@42813476-d85c-4029-93cf-6c7bb36b5c77/23825ecd-f0ab-4ecd-96ed-2a4b4cec18e9.svg">
